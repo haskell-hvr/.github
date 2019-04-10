@@ -17,3 +17,7 @@
 - Haskell packages are subject to the [Haskell Package Versioning Policy](https://pvp.haskell.org/) which governs both the API versioning as well as the specification of dependency versions.
 
 - Generally, only properly released major versions of tools and libraries are actively supported in Hackage releases; this is reflected in the dependency version constraints (see also previous item).
+
+## FAQ
+
+- **Can you add your packages to Stackage?** No can do; [I have been banned from Stackage](https://github.com/fpco/stackage/issues/4472) but if you haven't been blocked yet, you can try to [file an issue](https://github.com/fpco/stackage/issues/new).
